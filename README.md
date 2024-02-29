@@ -42,7 +42,7 @@ Após baixar o projeto, você pode abrir com seu editor de código preferido. Si
 
 - Abra o terminal no diretório do projeto.
 - Execute `npm install` para instalar as dependências.
-- Inicie o servidor de desenvolvimento com `npm run dev`.
+- Inicie o servidor de desenvolvimento com ou `yarn dev` ou `npm run dev`.
 - Acesse `http://localhost:3000` no navegador para ver o projeto.
 
 ## 📚 Mais Informações do Curso
