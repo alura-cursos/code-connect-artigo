@@ -41,7 +41,7 @@ Implementação de funcionalidades avançadas, como:
 Após baixar o projeto, você pode abrir com seu editor de código preferido. Siga estes passos:
 
 - Abra o terminal no diretório do projeto.
-- Execute `npm install` para instalar as dependências.
+- Execute `yarn`ou `npm install` para instalar as dependências.
 - Inicie o servidor de desenvolvimento com ou `yarn dev` ou `npm run dev`.
 - Acesse `http://localhost:3000` no navegador para ver o projeto.
 
